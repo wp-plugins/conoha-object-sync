@@ -1,13 +1,13 @@
 === ConoHa Object Sync ===
 Contributors: hironobu
 Tags: ConoHa, OpenStack Swift, object storage
-Requires at least: 0.1
-Tested up to: 0.1
-Stable tag: 0.1
+Requires at least: 0.2
+Tested up to: 0.2
+Stable tag: 0.2
 License: GPLv2 or later.
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A simple plugin for WordPress that helps you to synchronizes media files with ConoHa Object Storage or other OpenStack Swift-based system.
+ConoHa Object Sync is a simple plugin for WordPress that helps you to synchronizes media files with ConoHa Object Storage or other OpenStack Swift-based system.
 
 == Description ==
 
